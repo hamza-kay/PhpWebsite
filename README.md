@@ -4,5 +4,4 @@ This website was created for my university module, its an ecommerce website that
 # Getting Started
 You'll have to edit the connection.php file with details of your db and localhost. You can either host it online or use MAMP for windows or mac. 
 
-https://londonmetshop.000webhostapp.com/index.php
 
